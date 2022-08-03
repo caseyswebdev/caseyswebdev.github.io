@@ -37,3 +37,33 @@ nav li a {
 nav li a:hover, nav li a.current {
     color: #000000;
 }
+.footer {
+    padding: 40px 0;
+    background-color: #ffffff;
+    color: #4b4c4d;
+    margin-bottom: 2;
+
+}
+.footer ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+.footer li {
+    display: inline;
+    margin-right: 40px;
+}
+.footer li a {
+    color: #ffffff;
+}
+.footer li a:hover {
+    color: #000000;
+}
+
+
+.copyright {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #aaa;
+    margin-bottom: 0;
+}
